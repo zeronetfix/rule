@@ -1,0 +1,2 @@
+# rule
+Rule For Zeronetfix 
